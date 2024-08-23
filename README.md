@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile! I'm Avinash Singh, a Backend developer with a passion for building innovative and efficient software solutions. I specialize in a wide range of technologies, including Python, Django, Flask, and more. My expertise lies in web development, particularly in Django and Flask. Additionally, I have a strong background in SQL,mongoDB,postgress,Docker,HTML, bootstrap etc.
+Welcome to my GitHub profile! I'm Avinash Singh, a Backend developer with a passion for building innovative and efficient software solutions. I specialize in a wide range of technologies, including Python, Django,DRF, Flask, and more. My expertise lies in web development, particularly in Django and Flask. Additionally, I have a strong background in SQL,mongoDB,postgress,Docker,HTML, bootstrap etc.
 
