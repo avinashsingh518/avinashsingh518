@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I am Avinash Singh<br>Welcome to my GitHub profile!<br> I'm Avinash Singh, a Backend developer with a passion for building innovative and efficient software solutions. <br>I specialize in a wide range of technologies, including Python, Django,DRF, Flask, and more. My expertise lies in web development, particularly in Django and Flask.<br> Additionally, I have a strong background in SQL, mongoDB, postgress,Docker,HTML, bootstrap etc.
+Hi there 👋 I am Avinash Singh<br>Welcome to my GitHub profile!<br> I'm a Backend developer with a passion for building innovative and efficient software solutions. <br>I specialize in a wide range of technologies, including Python, Django,DRF, Flask, and more. My expertise lies in web development, particularly in Django and Flask.<br> Additionally, I have a strong background in SQL, mongoDB, postgress,Docker,HTML, bootstrap etc.
 
 
 ## 🌐 Socials:
